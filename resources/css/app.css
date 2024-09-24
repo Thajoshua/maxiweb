@@ -1,0 +1,13 @@
+/* Import Bootstrap */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Import your other CSS files */
+/* @import 'assets/css/fontawesome.css'; */
+/* @import 'font-awesome.min.css'; */
+@import 'fontawesome.css';
+@import 'templatemo-574-mexant.css';
+@import 'owl.css';
+@import 'animate.css';
+
+/* Admin css */
+@import 'Adminstyle.css';

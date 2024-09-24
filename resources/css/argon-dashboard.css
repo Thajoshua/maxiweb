@@ -1,0 +1,45 @@
+.info-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .info-box i {
+    font-size: 2rem;
+    margin-right: 15px;
+    color: #007bff;
+  }
+
+  .info-details {
+    flex-grow: 1;
+  }
+
+  .info-box h4 {
+    margin-bottom: 5px;
+  }
+
+  .info-box .btn {
+    margin-top: 10px;
+  }
+.sp{
+    position: relative;
+    left: 33%;
+}
+.sp2{
+    position: relative;
+    left: 30%;
+}
+  @media (max-width: 768px) {
+    .info-box {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .info-box i {
+      margin-bottom: 10px;
+    }
+  }
