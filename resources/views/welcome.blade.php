@@ -255,7 +255,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="left-image">
-                        <img src="{{ Vite::asset('resources/assets/images/calculator-image.png') }}" alt="Financial Calculator">
+                        <img src="/assets/images/calculator-image.png" alt="Financial Calculator">
                     </div>
                 </div>
                 <div class="col-lg-5">
