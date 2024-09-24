@@ -24,7 +24,7 @@
                         <div class="container-fluid">
                             <!-- Logo at the left end -->
                             <a href="{{ url('/') }}" class="custom-logo">
-                                <img src="{{ Vite::asset('resources/assets/images/logo.png') }}" alt="Mexant Logo" class="logo">
+                                <img src="/assets/images/logo.png" alt="Mexant Logo" class="logo">
                             </a>
 
                             <!-- Toggler/collapsible button for mobile -->
