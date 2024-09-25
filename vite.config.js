@@ -11,5 +11,5 @@ export default defineConfig({
             refresh: true,
         }),
     ],
-    base: 'https://maxiweb.vercel.app/', 
+    // base: 'https://maxiweb.vercel.app/', 
 });
